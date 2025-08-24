@@ -1,0 +1,19 @@
+# Visual Studio cache files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# Other
+*.log
+*.vsidx
